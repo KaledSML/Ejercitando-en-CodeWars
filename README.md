@@ -35,15 +35,23 @@ graph LR
     style F fill:#c8e6c9,stroke:#2e7d32
 ```
 ## 📁 Índice de Desafíos Destacados
-*Representación de la progresión lógica y dominio de estructuras de datos.*
+## 📁 Índice de Desafíos y Soluciones
+*Explora las soluciones haciendo clic en el icono 🐍 al final de cada fila.*
 
-| Dificultad | Desafío / Kata | Eje Tecnológico | Solución |
+| Nivel | Desafío / Kata | Concepto Aplicado | Solución |
 | :--- | :--- | :--- | :---: |
 | <img src="https://img.shields.io/badge/5_kyu-yellow?style=flat-square" /> | **Maximum subarray sum** | Programación Dinámica | [🐍](./5%20kyu%20-%20Maximum%20subarray%20sum.py) |
 | <img src="https://img.shields.io/badge/6_kyu-orange?style=flat-square" /> | **Bit Counting** | Operaciones Bitwise | [🐍](./6%20kyu%20-%20Bit%20Counting.py) |
 | <img src="https://img.shields.io/badge/6_kyu-orange?style=flat-square" /> | **Replace With Alphabet Position** | Manipulación de Strings | [🐍](./6%20kyu%20-%20Replace%20With%20Alphabet%20Position.py) |
-| <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **Reversed Words** | Fundamentos Python | [🐍](./8%20kyu%20-%20Reversed%20Words.py) |
-| <img src="https://img.shields.io/badge/Lógica-blue?style=flat-square" /> | **Número de Hamming** | Algoritmia Clásica | [🐍](./Otros%20ejercicios%20en%20Python/Numero%20de%20Hamming.py) |
+| <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **Cat years, Dog year** | Lógica de Control | [🐍](./8%20kyu%20-%20Cat%20years,%20Dog%20year.py) |
+| <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **Compare within margin** | Operadores de Comparación | [🐍](./8%20kyu%20-%20Compare%20within%20margin.py) |
+| <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **Get the mean of an array** | Aritmética / Listas | [🐍](./8%20kyu%20-%20Get%20the%20mean%20of%20an%20array.py) |
+| <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **Grasshopper - Ifelse syntax** | Debugging / Sintaxis | [🐍](./8%20kyu%20-%20Grasshopper%20-%20Ifelse%20syntax%20debug.py) |
+| <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **Quarter of the year** | Lógica Matemática | [🐍](./8%20kyu%20-%20Quarter%20of%20the%20year.py) |
+| <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **Reversed Words** | Transformación de Texto | [🐍](./8%20kyu%20-%20Reversed%20Words.py) |
+| <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **String cleaning** | Limpieza de Datos | [🐍](./8%20kyu%20-%20String%20cleaning.py) |
+
+---
 
 ---
 
