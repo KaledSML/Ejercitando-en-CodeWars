@@ -46,20 +46,21 @@ graph LR
 | <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **Compare within margin** | Operadores de Comparación | [🐍](./8%20kyu%20-%20Compare%20within%20margin.py) |
 | <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **Get the mean of an array** | Aritmética / Listas | [🐍](./8%20kyu%20-%20Get%20the%20mean%20of%20an%20array.py) |
 | <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **Grasshopper - Ifelse syntax** | Debugging / Sintaxis | [🐍](./8%20kyu%20-%20Grasshopper%20-%20Ifelse%20syntax%20debug.py) |
+| <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **Multiply** | Fundamentos Sintácticos | [🐍](./8%20kyu%20-%20Multiply.py) |
 | <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **Quarter of the year** | Lógica Matemática | [🐍](./8%20kyu%20-%20Quarter%20of%20the%20year.py) |
 | <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **Reversed Words** | Transformación de Texto | [🐍](./8%20kyu%20-%20Reversed%20Words.py) |
 | <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **String cleaning** | Limpieza de Datos | [🐍](./8%20kyu%20-%20String%20cleaning.py) |
-
----
+| <img src="https://img.shields.io/badge/Otros-blue?style=flat-square" /> | **Lógica y Algoritmia Extra** | Hamming, Palíndromos, etc. | [🐍](./Otros%20ejercicios%20en%20Python/) |
 
 ---
 
 ## 🛠️ Toolbox de Ingeniería (Pythonic Skills)
 Para cada desafío en este repositorio, se prioriza el uso de herramientas nativas que optimizan el rendimiento:
 
-* **Optimización:** Implementación de *List Comprehensions* y manejo de memoria en ejercicios de nivel intermedio (5 y 6 kyu).
-* **Limpieza de Código:** Aplicación de principios **DRY** y nombrado semántico de variables.
-* **Dominio Lógico:** Resolución de problemas complejos como los **Números de Hamming** y **Números Infelices** mediante algoritmos eficientes.
+* **Optimización:** Implementación de *List Comprehensions* y manejo eficiente de memoria en niveles 5 y 6 kyu.
+* **Limpieza de Código:** Aplicación de principios **DRY** (Don't Repeat Yourself) y nombrado semántico.
+* **Dominio Lógico:** Resolución de problemas complejos mediante algoritmos de búsqueda, filtrado y validación de casos de borde (*edge cases*).
+
 ---
 
 ## ⚖️ Código de Honor y Uso Ético
