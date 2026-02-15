@@ -34,7 +34,6 @@ graph LR
     style E fill:#fff9e6,stroke:#d4a017
     style F fill:#c8e6c9,stroke:#2e7d32
 ```
-## 📁 Índice de Desafíos Destacados
 ## 📁 Índice de Desafíos y Soluciones
 *Explora las soluciones haciendo clic en el icono 🐍 al final de cada fila.*
 
