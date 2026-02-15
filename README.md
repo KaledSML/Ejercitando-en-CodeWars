@@ -1,33 +1,67 @@
-# 🐍 Python Problem Solving: CodeWars & More
+# 🐍 Python Problem Solving: CodeWars & Algorithmic Logic
 
-Este repositorio documenta mi proceso de resolución de desafíos de programación (**Katas**) en **CodeWars**, junto con diversos ejercicios de lógica algorítmica. Mi objetivo es fortalecer el pensamiento computacional y el dominio de las estructuras de datos en Python.
+<p align="center">
+  <img src="https://www.codewars.com/users/KaledSML/badges/large" alt="Codewars Rank Badge" />
+</p>
 
----
-
-## 🚀 Estructura de Desafíos (Katas)
-Los ejercicios están categorizados según su nivel de dificultad en la plataforma:
-
-*   **5 kyu (Intermedio):** Algoritmos complejos y optimización.
-*   **6 kyu:** Lógica de programación y manipulación de datos avanzada.
-*   **8 kyu (Fundamentos):** Sintaxis básica, tipos de datos y control de flujo.
-
----
-
-## 🛠️ Tecnologías y Conceptos Aplicados
-*   **Lenguaje:** Python 3.x
-*   **Conceptos:** Operaciones bit a bit, manipulación de strings, lógica booleana, recursividad y eficiencia algorítmica.
-*   **Metodología:** Resolución iterativa y refactorización para lograr soluciones más limpias y pitónicas.
+<p align="center">
+  <img src="https://img.shields.io/badge/LENGUAJE-PYTHON_3.X-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLATAFORMA-CODEWARS-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
+  <a href="https://www.codewars.com/users/KaledSML" target="_blank">
+    <img src="https://img.shields.io/badge/PERFIL-KaledSML-blue?style=for-the-badge&logo=codewars&logoColor=white&labelColor=323232" />
+  </a>
+</p>
 
 ---
 
-## ⚖️ Código de Honor y Uso Ético 👀
-Este material se publica con fines **estrictamente educativos**. Si estás resolviendo estos desafíos por tu cuenta, recuerda:
-
-1.  **El aprendizaje está en el proceso:** Intenta resolverlo tú mismo antes de consultar la solución.
-2.  **Usa el código como guía:** Analiza mi lógica si te bloqueas, pero implementa tu propia versión.
-3.  **Ética en la comunidad:** Evita copiar soluciones para ganar puntos de "Honor" en la plataforma; la verdadera recompensa es la habilidad adquirida.
+## 📖 Resumen Ejecutivo
+Este repositorio es una bitácora técnica de resolución de desafíos (**Katas**). No es solo una colección de scripts, sino un entrenamiento continuo en **eficiencia algorítmica** y **pensamiento lateral**. Cada solución ha sido refactorizada para cumplir con los estándares de legibilidad y rendimiento del ecosistema Python.
 
 ---
+
+## 🛠️ Metodología de Resolución
+Para asegurar la calidad de cada entrega, se aplica un flujo de trabajo de ingeniería de software:
+
+```mermaid
+graph LR
+    A["🔍 Análisis"] --> B["💡 Lógica"]
+    B --> C["💻 Code"]
+    C --> D["🧪 Tests"]
+    D --> E["✨ Refactor"]
+    E --> F(("✅ Final"))
+
+    style A fill:#f9f,stroke:#333
+    style E fill:#fff9e6,stroke:#d4a017
+    style F fill:#c8e6c9,stroke:#2e7d32
+```
+## 📁 Índice de Desafíos Destacados
+*Representación de la progresión lógica y dominio de estructuras de datos.*
+
+| Dificultad | Desafío / Kata | Eje Tecnológico | Solución |
+| :--- | :--- | :--- | :---: |
+| <img src="https://img.shields.io/badge/5_kyu-yellow?style=flat-square" /> | **Maximum subarray sum** | Programación Dinámica | [🐍](./5%20kyu%20-%20Maximum%20subarray%20sum.py) |
+| <img src="https://img.shields.io/badge/6_kyu-orange?style=flat-square" /> | **Bit Counting** | Operaciones Bitwise | [🐍](./6%20kyu%20-%20Bit%20Counting.py) |
+| <img src="https://img.shields.io/badge/6_kyu-orange?style=flat-square" /> | **Replace With Alphabet Position** | Manipulación de Strings | [🐍](./6%20kyu%20-%20Replace%20With%20Alphabet%20Position.py) |
+| <img src="https://img.shields.io/badge/8_kyu-green?style=flat-square" /> | **Reversed Words** | Fundamentos Python | [🐍](./8%20kyu%20-%20Reversed%20Words.py) |
+| <img src="https://img.shields.io/badge/Lógica-blue?style=flat-square" /> | **Número de Hamming** | Algoritmia Clásica | [🐍](./Otros%20ejercicios%20en%20Python/Numero%20de%20Hamming.py) |
+
+---
+
+## 🛠️ Toolbox de Ingeniería (Pythonic Skills)
+Para cada desafío en este repositorio, se prioriza el uso de herramientas nativas que optimizan el rendimiento:
+
+* **Optimización:** Implementación de *List Comprehensions* y manejo de memoria en ejercicios de nivel intermedio (5 y 6 kyu).
+* **Limpieza de Código:** Aplicación de principios **DRY** y nombrado semántico de variables.
+* **Dominio Lógico:** Resolución de problemas complejos como los **Números de Hamming** y **Números Infelices** mediante algoritmos eficientes.
+---
+
+## ⚖️ Código de Honor y Uso Ético
+> [!IMPORTANT]
+> Este repositorio tiene fines **estrictamente educativos**. El verdadero crecimiento técnico ocurre cuando te enfrentas al problema por tu cuenta. Usa este código como referencia para desbloquear tu lógica, no para sustituir tu proceso de aprendizaje.
+
+---
+
 > [!TIP]
-> **Pista de Oro:** En Python, a menudo hay una forma más "Pythonic" de resolver un problema usando *list comprehensions* o funciones integradas. ¡Busca siempre la elegancia en tu código!
+> **Pista de Oro:** La elegancia en Python (el *Pythonic Way*) suele reducir la complejidad ciclomática. Si tu solución tiene demasiados `if` anidados, probablemente exista una función integrada que simplifique el flujo.
 
+<p align="right">Desarrollado con 💜 por <b>Kaled San Martin</b></p>
